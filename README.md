@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riddick Kakati</h1>
+<h1 align="center">Hi 👋, I'm Dr. Riddick Kakati</h1>
 <h3 align="center">Self-motivated Ph.D, specialized in Water Resource Engineering and Management with 5+ years of experience. Intellectually curious and willing to learn. Excellent verbal and communication skills with a variety of audiences.</h3>
 
 - 👨‍💻 All of my projects are available at <br><br>[https://iitg.ac.in/stud/riddick.kakati/](https://iitg.ac.in/stud/riddick.kakati/)<br>[https://riddickkakati.github.io/portfolio/](https://riddickkakati.github.io/portfolio/)
