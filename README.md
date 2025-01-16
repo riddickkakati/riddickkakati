@@ -6,7 +6,7 @@
 - I am passionate about developing innovative solutions for complex water resources challenges through user-centric interfaces and advanced computational methods. As a former Postdoctoral Researcher at the University of Trento, Italy, I worked on Project CARITRO, bringing together technical expertise and practical applications. I completed my Ph.D. in Water Resources Engineering from the Indian Institute of Technology Guwahati, focusing on inland water episodic event management using opensource geospatial and numerical modelling. My expertise spans computational fluid dynamics (particularly OpenFOAM), machine learning, and full-stack development. As a researcher and developer, I have contributed to significant projects including Air2water 3.0, a forecasting and monitoring system, and the Aquatic Ecological Monitoring System (AEMS) web application. I have extensive experience with laboratory and field instrumentation, including ADV/ADCP, field spectroradiometer, and various water quality monitoring equipment. My research interests lie at the intersection of CFD, River Engineering, Remote Sensing, GIS, and Machine Learning. I have published in prestigious journals such as Advances in Water Resources and Water Resources Management, and presented at major conferences including the European Geophysical Union and American Geophysical Union. Additionally, I serve as a reviewer for Nature Scientific Reports and other leading journals in the field.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">riddick.kakati@iitg.ac.in
+<p align="left">riddick.kakati93@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
